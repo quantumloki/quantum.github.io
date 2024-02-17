@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](new screenshot.png)
+![](blog2.png)
 
 
 
